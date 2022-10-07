@@ -1,0 +1,87 @@
+:root {
+  --case-1: #004B23;
+  --case-2: #006400;
+  --case-3: #007200;
+  --case-4: #008000;
+  --case-5: #38B000;
+  --case-6: #70E000;
+  --case-7: #9EF01A;
+  --case-8: #CCFF33;
+  --case-9: #10002B;
+  --case-10: #240046;
+  --case-11: #3C096C;
+  --case-12: #5A189A;
+  --case-13: #7B2CBF;
+  --case-14: #9D4EDD;
+  --case-15: #C77DFF;
+  --case-16: #E0AAFF;
+}
+
+.Box-dem {
+  width: calc(100vw / 6);
+  height: 200px;
+}
+
+.first {
+  background-color: var(--case-1);
+}
+
+.second {
+  background-color: var(--case-2);
+}
+
+.third {
+  background-color: var(--case-3)
+}
+
+.fourth {
+  background-color: var(--case-4)
+}
+
+.fifth {
+  background-color: var(--case-5)
+}
+
+.sixth {
+  background-color: var(--case-6)
+}
+
+.seventh {
+  background-color: var(--case-7)
+}
+
+.eighth {
+  background-color: var(--case-8)
+}
+
+.ninth {
+  background-color: var(--case-9)
+}
+
+.teenth {
+  background-color: var(--case-10)
+}
+
+.eleventh {
+  background-color: var(--case-11)
+}
+
+.twelfth {
+  background-color: var(--case-12)
+}
+
+.thirteenth {
+  background-color: var(--case-13)
+}
+
+.fourteenth {
+  background-color: var(--case-14)
+}
+
+.fifteenth {
+  background-color: var(--case-15)
+}
+
+.sixteenth {
+  background-color: var(--case-16)
+}
